@@ -1,2 +1,2 @@
 # ProjectJarvis
-Python program to run the speech commands through personal Assistant with speech recognition
+Python program to run the speech commands through personal virtual Assistant with speech recognition.
